@@ -106,13 +106,13 @@
                       <Component id="jButton1" min="-2" pref="35" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="jButton2" min="-2" pref="35" max="-2" attributes="0"/>
-                      <EmptySpace type="unrelated" max="-2" attributes="0"/>
+                      <EmptySpace max="-2" attributes="0"/>
                       <Component id="jButton3" min="-2" pref="35" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="jButton4" min="-2" pref="35" max="-2" attributes="0"/>
                       <EmptySpace type="unrelated" max="-2" attributes="0"/>
                       <Component id="jButton5" min="-2" pref="35" max="-2" attributes="0"/>
-                      <EmptySpace pref="119" max="32767" attributes="0"/>
+                      <EmptySpace pref="125" max="32767" attributes="0"/>
                       <Component id="jButton6" min="-2" pref="35" max="-2" attributes="0"/>
                       <EmptySpace min="-2" pref="22" max="-2" attributes="0"/>
                   </Group>
@@ -937,7 +937,7 @@
                             <Column editable="true" title="Cliente ID" type="java.lang.Object"/>
                             <Column editable="true" title="Fecha de pedido" type="java.lang.Object"/>
                             <Column editable="true" title="Fecha de entrega" type="java.lang.Object"/>
-                            <Column editable="true" title="M&#xe9;todo de pago" type="java.lang.Object"/>
+                            <Column editable="true" title="Descripci&#xf3;n" type="java.lang.Object"/>
                             <Column editable="true" title="Monto" type="java.lang.Object"/>
                             <Column editable="true" title="Estado" type="java.lang.Object"/>
                           </Table>
